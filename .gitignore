@@ -1,0 +1,26 @@
+# Dependencies
+frontend/node_modules/
+
+# Build output
+frontend/dist/
+frontend/dist-ssr/
+frontend/coverage/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Editors and OS files
+.idea/
+.DS_Store
+Thumbs.db
+*.log
